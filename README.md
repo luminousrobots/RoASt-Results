@@ -77,4 +77,5 @@ Algorithm 2 with opaque obstacle and third goal set.
 ---
 
 > [!NOTE]
-> You can run the algorithms (`.web-algo` files) in the [BRAMAS Simulator](https://github.com/bramas/webAlgoSim).
+> To run a `.web-algo` file in the [BRAMAS Simulator](https://bramas.pages.unistra.fr/robot-grid-exploration-simulator/IMgO4F3mSbr2bvlRMOkVLOf35EufT0/):  
+> Open the link → **File** → **Parcourir**, select the file, then use the **← / →** keys to run the algorithm.
