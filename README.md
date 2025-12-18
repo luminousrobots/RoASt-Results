@@ -8,10 +8,11 @@ This repository contains execution results from the ROAST tool (Robot Algorithm 
 
 2 robots with visibility range 1, using colors F, L, R. Leader-based algorithm with an opaque obstacle.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/config.json)
 
 ---
 
@@ -19,10 +20,11 @@ This repository contains execution results from the ROAST tool (Robot Algorithm 
 
 Algorithm 2 with opaque obstacle and first goal set as the main execution.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/config.json)
 
 ---
 
@@ -30,10 +32,11 @@ Algorithm 2 with opaque obstacle and first goal set as the main execution.
 
 Algorithm 2 with opaque obstacle and reordered goals from the first goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/config.json)
 
 ---
 
@@ -41,10 +44,11 @@ Algorithm 2 with opaque obstacle and reordered goals from the first goal set.
 
 Algorithm 2 with transparent obstacle and first goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/config.json)
 
 ---
 
@@ -52,10 +56,11 @@ Algorithm 2 with transparent obstacle and first goal set.
 
 Algorithm 2 with opaque obstacle and second goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/config.json)
 
 ---
 
@@ -63,7 +68,13 @@ Algorithm 2 with opaque obstacle and second goal set.
 
 Algorithm 2 with opaque obstacle and third goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/duration.html)
-[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://luminousrobots.github.io/roast_results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/location.html)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/timestamp.log)
+[![Location](https://img.shields.io/badge/Location-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/tree/main/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Results/blob/main/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/config.json)
+
+---
+
+> [!NOTE]
+> You can run the algorithms (`.web-algo` files) in the [BRAMAS Simulator](https://github.com/bramas/webAlgoSim).
