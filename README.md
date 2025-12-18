@@ -6,7 +6,7 @@ This repository contains execution results from the ROAST tool (Robot Algorithm 
 
 ### Exec1 | Algo1 | Obstacle:opaque | Goals1 | Main
 
-2 robots with visibility range 1, using colors F, L, R. Leader-based algorithm with an opaque obstacle.
+Primary execution of Algorithm 1 with an opaque obstacle and the standard goal set.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
@@ -18,7 +18,7 @@ This repository contains execution results from the ROAST tool (Robot Algorithm 
 
 ### Exec2 | Algo2 | Obstacle:opaque | Goals1 | Main
 
-Algorithm 2 with opaque obstacle and first goal set as the main execution.
+Primary execution of Algorithm 2 with an opaque obstacle and the standard goal set.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
@@ -30,7 +30,7 @@ Algorithm 2 with opaque obstacle and first goal set as the main execution.
 
 ### Exec3 | Algo2 | Obstacle:opaque | Goals1:Reordered
 
-Algorithm 2 with opaque obstacle and reordered goals from the first goal set.
+Variant of Algorithm 2 with an opaque obstacle, using a reordered version of the standard goal set.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/classification.html)
@@ -42,7 +42,7 @@ Algorithm 2 with opaque obstacle and reordered goals from the first goal set.
 
 ### Exec4 | Algo2 | Obstacle:transparent | Goals1
 
-Algorithm 2 with transparent obstacle and first goal set.
+Variant of Algorithm 2 featuring a transparent obstacle to test visibility through obstacles.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/classification.html)
@@ -54,7 +54,7 @@ Algorithm 2 with transparent obstacle and first goal set.
 
 ### Exec5 | Algo2 | Obstacle:opaque | Goals2
 
-Algorithm 2 with opaque obstacle and second goal set.
+Execution of Algorithm 2 with an opaque obstacle, testing the second set of specific goals.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/classification.html)
@@ -66,7 +66,7 @@ Algorithm 2 with opaque obstacle and second goal set.
 
 ### Exec6 | Algo2 | Obstacle:opaque | Goals3
 
-Algorithm 2 with opaque obstacle and third goal set.
+Execution of Algorithm 2 with an opaque obstacle, testing the third set of specific goals.
 
 [![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/viewer.html)
 [![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Results/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3X/classification.html)
